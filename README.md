@@ -9,9 +9,9 @@ bulk purchases. The discount rate is as follows:
 No of items 
 ordered
 Product Discount rate
-20 or more Fan 12%
-10 or more AC 15%
-5 or more TV 08%
+(20 or more Fan 12%)
+(10 or more AC 15%)
+(5 or more TV 08%)
 Otherwise there is no discount. Assuming the order can be for one item or more than one item at a 
 time, write a C program to prepare a cash bill for a customer who buys these products. Use 
 appropriate decision making statement in your program
