@@ -15,3 +15,6 @@ Product Discount rate
 Otherwise there is no discount. Assuming the order can be for one item or more than one item at a 
 time, write a C program to prepare a cash bill for a customer who buys these products. Use 
 appropriate decision making statement in your program
+
+#arithemtic operations
+Write a C program to read in two integers a and b and an arithmetic operator op (character datatype). Calculate results of the expression. R=a op b. Use switch statement in your program. Also find the maximum and minimum of those integers using the conditional operator
