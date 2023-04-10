@@ -19,3 +19,8 @@ appropriate decision making statement in your program
 # simple arithemtic operations
 
 Write a C program to read in two integers a and b and an arithmetic operator op (character datatype). Calculate results of the expression. R=a op b. Use switch statement in your program. Also find the maximum and minimum of those integers using the conditional operator
+
+# prime or not
+
+Write a C program to check whether a given integer is prime. If it is not a prime number, display 
+all its factors excluding 1 and that number.
